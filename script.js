@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const header = document.createElement("header");
   header.innerHTML = `
     <div class="logo">
-      <img src="Images/téléchargé.png" alt="Logo">
+      <img src="téléchargé.png" alt="Logo">
     </div>
     <div class="search-bar">
       <input type="text" id="search-input" placeholder="Rechercher un Pokémon...">
